@@ -1,0 +1,20 @@
+
+.form{
+    position: relative;
+    left:-30px;
+    top:20px;
+}
+.heading-container h3{
+    margin-top: -120px;
+    position: relative;
+    left: 40px;
+
+}
+.checkbox{
+    position: relative;
+    left:40px;
+    margin-top: 130px;
+}
+.bottom p{
+    margin-left: 40px;
+}

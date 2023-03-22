@@ -1,0 +1,100 @@
+.navbaar{
+    width:96%;
+    height:50px;
+    color:white;
+    background-color: black;
+    font-size: 20px;
+    position: relative;
+    
+}
+.navbaar span{
+    position: absolute;
+    right:160px;
+    margin-top: 10px;;
+}
+.formfam{
+    width:950px;
+    height:100px;
+    background-color: white;
+    position:relative;
+    top:-84px;
+}
+.navbaar button{
+    width:100px;
+    background-color: black;
+    color:white;
+    height:30px;
+    margin-top: 10px;
+    position: absolute;
+    right: 20px;
+    border-radius: 10px;
+    border-width: 0;
+    font-size: 10px;
+    transition:0.5s ease-in-out;
+}
+.navbaar button:hover{
+    background-color: white;
+    color:black;
+    transform: scale(1.1);
+}
+.userico{
+    width:20px;
+    height:20px;
+    margin-top:15px ;
+    position:absolute;
+    right:300px;
+}
+
+form{
+    width:50%;
+    height:30px;
+    position: relative;
+    top:-80px;
+    left:40px;
+    margin-top: 100px;
+}
+.mainkaaju{
+    position:relative;
+   
+    width:925px;
+    height:240px;
+    background-color: white;
+}
+form button{
+    width:20%;
+    min-width: 200px;
+    height:40px;
+    border-radius:5px;
+    position:relative;
+    left:10px;
+    background-color: black;
+    color:white;
+    font-size: 20px;
+    border-radius: 10px;
+    border-width: 0px;
+    transition:0.5s ease-in-out;
+}
+.icoio{
+    
+    width:30px;
+    height:70px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin-top: 20px;
+}
+
+.icoio img{
+    width: 30px;
+    height:30px;
+    margin-left:10px;
+}
+form button:hover{
+
+    background-color: green;
+    box-shadow: 0 0 4px 0 black;
+    transform: scale(1.1);
+}
+.selectkaro{
+    margin:10px;
+}

@@ -1,0 +1,15 @@
+.Container {
+    margin-top: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+
+.leaflet-container {
+    width: 500px;
+    height: 500px;
+    margin-right: 30px;
+  }
